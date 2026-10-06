@@ -156,7 +156,7 @@ Franchises are saved to disk via Java serialization. Multiple save slots are sup
 
 ## Author
 
-**Maddox Flood** — [@mflo77](https://github.com/yourhandle)
+**Maddox Flood** — [@maddoxflood](https://github.com/maddoxflood)
 
 Built as a personal project during first year of university.
 
